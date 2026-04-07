@@ -1,0 +1,5 @@
+{
+  "name": "CogniMind",
+  "description": "A cognitive management application that uses AI-driven conversations to identify cognitive skill deficiencies and provides personalized mental health strategies and improvement guidance.",
+  "requestFramePermissions": []
+}
